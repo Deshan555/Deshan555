@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayashanka Deshan</h1>
 <h3 align="center">Hi there 👋🏾 welcome to my Github! I'm a Computer Science Student.I also like Java,Python and I'm exploring Cloud Tech 🐍 ☁️</h3>
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Deshan555/Deshan555/blob/main/programmer.gif?raw=true" width="500" height="320" />
 
 - 🌱 I’m currently learning **Java,Python and C**
 
