@@ -37,4 +37,7 @@
 
 </details>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="deshan-jayashanka-213359233" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/deshan-jayashanka-213359233?trk=profile-badge">Deshan Jayashanka</a></div>
+              
+
 
