@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Ahoy, matey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deshan</h1>
+<h1 align="center">Ahoy, matey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px height="30px"">, I'm Deshan</h1>
 <h3 align="center">I'm a Computer Science Student.I also like Java,Python and I'm exploring IOT and ML Things</h3>
 
 
@@ -53,11 +53,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/deshan555/github-readme-stats"><img alt="DJ Amarasinghe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deshan555&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  
-  </a>
-  
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Deshan Jayashankas Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshan555&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/deshan555/github-readme-stats"><img alt="DJ Amarasinghe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deshan555&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a><a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Deshan Jayashankas Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshan555&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 </p>
