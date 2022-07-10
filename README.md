@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Ahoy, matey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px height="30px"">, I'm Deshan</h1>
+<h1 align="center">Ahoy,matey🦜I'm Deshan</h1>
 <h3 align="center">I'm a Computer Science Student.I also like Java,Python and I'm exploring IOT and ML Things</h3>
 
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dj.amarasinghe.dev@gmail.com**
 
-- ⚡ Fun fact **I am witcher3 lover**
+- ⚡ Fun fact **I am die hard anime fan**
 
 ## 🚀 Languages and Tools:
 
