@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ Little Bit About Me
 
-- 🔭 I’m currently working on **[Iceburg Iot Project](https://github.com/Deshan555/IOT-Smart_Farming-Solution-Project_ICEBURG.git)**🔗
+- 🔭 I’m currently working on [Iceburg Iot Project](https://github.com/Deshan555/DocFinder.git)🔗
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
