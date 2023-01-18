@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/Deshan555/Deshan555/blob/main/girlonpc.svg" height="175px"/></a>
 
 <h1 align="center">𝗔𝗵𝗼𝘆,𝗺𝗮𝘁𝗲𝘆 ⚓🏴‍☠️🦜𝗜'𝗺 𝗝𝗮𝘆𝗮𝘀𝗵𝗮𝗻𝗸𝗮 𝗗𝗲𝘀𝗵𝗮𝗻</h1>
 <h3 align="center">𝗜'𝗺 𝗮 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 𝗼𝗳 𝗰𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝘀𝗰𝗶𝗲𝗻𝗰𝗲. 𝗜 𝗮𝗹𝘀𝗼 𝗲𝗻𝗷𝗼𝘆 𝗝𝗮𝘃𝗮, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗮𝗻𝗱 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗮𝗻𝗱 𝗜'𝗺 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗯𝗼𝘂𝘁 𝘄𝗲𝗯 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀</h3>
