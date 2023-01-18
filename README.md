@@ -2,6 +2,12 @@
 
 <h1 align="center">𝗔𝗵𝗼𝘆,𝗺𝗮𝘁𝗲𝘆 ⚓🏴‍☠️🦜𝗜'𝗺 𝗝𝗮𝘆𝗮𝘀𝗵𝗮𝗻𝗸𝗮 𝗗𝗲𝘀𝗵𝗮𝗻</h1>
 <h3 align="center">𝗜'𝗺 𝗮 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 𝗼𝗳 𝗰𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝘀𝗰𝗶𝗲𝗻𝗰𝗲. 𝗜 𝗮𝗹𝘀𝗼 𝗲𝗻𝗷𝗼𝘆 𝗝𝗮𝘃𝗮, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗮𝗻𝗱 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗮𝗻𝗱 𝗜'𝗺 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗯𝗼𝘂𝘁 𝘄𝗲𝗯 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀</h3>
+<p align = "center">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=deshan555">
+</a><a href="https://github.com/deshan555?tab=followers"><img src="https://img.shields.io/github/followers/deshan555?label=Followers&style=social" alt="GitHub Badge"></a>
+
+</p>
 
 
 ## 🙋‍♂️ 𝗟𝗶𝘁𝘁𝗹𝗲 𝗕𝗶𝘁 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
@@ -29,36 +35,17 @@
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/deshan555/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deshan555&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"alt="deshan555">
-    </a>
-</p>
-
-### 📊 My Github Stats
-
-<p align="center">
-
-  <a href="https://github.com/deshan555/github-readme-stats"><img alt="DJ Amarasinghe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deshan555&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a><a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Deshan Jayashankas Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshan555&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-</p>
-
-  
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-</p>
-
+## 📈𝗠𝘆 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗖𝗵𝗮𝗿𝘁
 [![deshan555's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=deshan555&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#### ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=deshan555">
-</a><a href="https://github.com/deshan555?tab=followers"><img src="https://img.shields.io/github/followers/deshan555?label=Followers&style=social" alt="GitHub Badge"></a>
+## 📊 𝗠𝘆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 
+![](https://github-readme-stats.vercel.app/api?username=deshan555&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=deshan555&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deshan555&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
+
+⚠️ 𝗡𝗼𝘁𝗲: 𝗧𝗼𝗽 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗶𝘀 𝗼𝗻𝗹𝘆 𝗮 𝗺𝗲𝘁𝗿𝗶𝗰 𝗼𝗳 𝘁𝗵𝗲 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗺𝘆 𝗽𝘂𝗯𝗹𝗶𝗰 𝗰𝗼𝗱𝗲 𝗰𝗼𝗻𝘀𝗶𝘀𝘁𝘀 𝗼𝗳 𝗮𝗻𝗱 𝗱𝗼𝗲𝘀𝗻'𝘁 𝗿𝗲𝗳𝗹𝗲𝗰𝘁 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗼𝗿 𝘀𝗸𝗶𝗹𝗹 𝗹𝗲𝘃𝗲𝗹.
 
 <!--## Connect with me:
 <p align="left">
