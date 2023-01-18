@@ -1,45 +1,31 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Ahoy,matey 🏴‍☠️🦜⚓🔱 I'm Deshan</h1>
-<h3 align="center">I'm a Computer Science Student.I also like Java,Python and I'm exploring IOT and ML Things</h3>
+<h1 align="center">𝗔𝗵𝗼𝘆,𝗺𝗮𝘁𝗲𝘆 ⚓🏴‍☠️🦜𝗜'𝗺 𝗝𝗮𝘆𝗮𝘀𝗵𝗮𝗻𝗸𝗮 𝗗𝗲𝘀𝗵𝗮𝗻</h1>
+<h3 align="center">𝗜'𝗺 𝗮 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 𝗼𝗳 𝗰𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝘀𝗰𝗶𝗲𝗻𝗰𝗲. 𝗜 𝗮𝗹𝘀𝗼 𝗲𝗻𝗷𝗼𝘆 𝗝𝗮𝘃𝗮, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗮𝗻𝗱 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗮𝗻𝗱 𝗜'𝗺 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗯𝗼𝘂𝘁 𝘄𝗲𝗯 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀</h3>
 
 
-## 🙋‍♂️ Little Bit About Me
+## 🙋‍♂️ 𝗟𝗶𝘁𝘁𝗹𝗲 𝗕𝗶𝘁 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-- 🔭 I’m currently working on [KeepPass-Password Manager](https://github.com/Deshan555/Password-Manager)🔗
+<br>🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 <br><br>🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔 𝚊𝚗𝚍 𝚛𝚎𝚊𝚕𝚝𝚎𝚍 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜<br><br>👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 𝙾𝚙𝚎𝚗𝚂𝚘𝚞𝚛𝚌𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜<br><br>📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚍𝚓.𝚊𝚖𝚊𝚛𝚊𝚜𝚒𝚗𝚐𝚑𝚎.𝚍𝚎𝚟@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖<br><br>⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 𝙸 𝚊𝚖 𝚍𝚒𝚎 𝚑𝚊𝚛𝚍 𝚊𝚗𝚒𝚖𝚎 𝚏𝚊𝚗
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+## 🚀 𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗟𝗮𝗴𝗻𝗲𝗮𝗴𝗲𝘀
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗳𝗼𝗿 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴<br><br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-- 📫 How to reach me **dj.amarasinghe.dev@gmail.com**
+- 𝗛𝗼𝘀𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗖𝗹𝗼𝘂𝗱<br><br>
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
-- ⚡ Fun fact **I am die hard anime fan**
+- 𝗙𝗿𝗮𝗺𝘄𝗼𝗿𝗸𝘀<br><br>
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
-## 🚀 Languages and Tools:
+- 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀<br><br>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 	
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <!--<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>-->
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <!--<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> -->
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    <!--<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> -->
-    <!--<a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>-->
-</p>
+- 𝗢𝘁𝗵𝗲𝗿𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀<br><br>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+
 
 <br/>
 
@@ -64,11 +50,9 @@
 
 <br/>
 <br/>
-
-<a href="https://github.com/deshan555/github-readme-activity-graph"><img alt="hhjhhjhjhjh" src="https://activity-graph.herokuapp.com/graph?username=deshan555&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-
 </p>
+
+[![deshan555's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=deshan555&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
