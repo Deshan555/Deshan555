@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Repo List</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>GitHub Repository List</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Repo Name</th>
+                <th>Description</th>
+                <th>Languages and Technologies</th>
+                <th>Repo Link</th>
+            </tr>
+        </thead>
+        <tbody id="repoTableBody">
+            <!-- Repositories will be inserted here -->
+        </tbody>
+    </table>
+
+    <script>
+        const repoTableBody = document.getElementById('repoTableBody');
+
+        // Replace 'YOUR_GITHUB_USERNAME' with your actual GitHub username
+        const username = 'deshan555';
+
+        // Fetch repositories using GitHub API
+        fetch(`https://api.github.com/users/${username}/repos`)
+            .then(response => response.json())
+            .then(repos => {
+                repos.forEach(repo => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${repo.name}</td>
+                        <td>${repo.description || 'No description available'}</td>
+                        <td>${repo.language || 'N/A'}</td>
+                        <td><a href="${repo.html_url}" target="_blank">Link</a></td>
+                    `;
+                    repoTableBody.appendChild(row);
+                });
+            })
+            .catch(error => console.error('Error fetching repositories:', error));
+    </script>
+</body>
+</html>
