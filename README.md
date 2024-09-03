@@ -4,8 +4,8 @@
 
 <h1 align="center">𝗔𝗵𝗼𝘆,𝗺𝗮𝘁𝗲𝘆 ⚓🏴‍☠️🦜𝗜'𝗺 𝗝𝗮𝘆𝗮𝘀𝗵𝗮𝗻𝗸𝗮 𝗗𝗲𝘀𝗵𝗮𝗻</h1>
 <h3 align="center">𝗜'𝗺 𝗮 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 𝗼𝗳 𝗰𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝘀𝗰𝗶𝗲𝗻𝗰𝗲. 𝗜 𝗮𝗹𝘀𝗼 𝗲𝗻𝗷𝗼𝘆 𝗝𝗮𝘃𝗮, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗮𝗻𝗱 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗮𝗻𝗱 𝗜'𝗺 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗯𝗼𝘂𝘁 𝘄𝗲𝗯 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀</h3>
-<h4 align="center">​Debugging is like finding a needle in a haystack. Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. - Brian W. Kernighan​</h4>
-<p align = "center">
+<!-- <h4 align="center">​Debugging is like finding a needle in a haystack. Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. - Brian W. Kernighan​</h4>
+<p align = "center"> -->
 
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=deshan555">
