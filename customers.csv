@@ -1,0 +1,7 @@
+customerName,customerMobile,customerAddress,customerEmail,customerType,factoryID
+Ranil Perera,1234567890,"123 Main Street, City, Country",deshanja@sltc.ac.lk,ROLE.CUSTOMER,1
+Nimal Jayawardena,1234567890,"123 Main Street, City, Country",johndoe@example.com,ROLE.CUSTOMER,1
+Dilruk Silva,1234567890,"123 Main Street, City, Country",johndoe@example.com,ROLE.CUSTOMER,1
+Chaminda Rajapaksa,1234567890,"123 Main Street, City, Country",johndoe@example.com,ROLE.CUSTOMER,1
+Malini Fernando,9876543210,"456 Elm Street, Town, Country",janesmith@example.com,ROLE.CUSTOMER,1
+Thilak Wickramasinghe,5556667777,"789 Oak Street, Village, Country",johnwick@example.com,ROLE.CUSTOMER,1
